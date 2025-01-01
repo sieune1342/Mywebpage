@@ -16,12 +16,7 @@
             height: 100vh;
             flex-direction: column;
         }
-        .gmail-logo {
-            font-size: 60px; /* Điều chỉnh kích thước chữ "Gmail" */
-            font-weight: bold;
-            color: #4285f4; /* Màu sắc giống với màu của Google Gmail */
-            margin-bottom: 30px; /* Khoảng cách giữa chữ Gmail và form đăng nhập */
-        }
+       
         .login-container {
             background-color: white;
             padding: 30px;
