@@ -1,4 +1,4 @@
-<Tôi là Giang Bánh Bía>
+<>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +15,13 @@
             align-items: center;
             height: 100vh;
             flex-direction: column;
-     
+        }
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
         .login-container {
             background-color: white;
             padding: 30px;
@@ -72,10 +78,8 @@
 </head>
 <body>
 
-    <!-- Thêm chữ "Gmail" vào đây -->
-  
-       
-   
+    <!-- Logo chữ GIANG ĐẤT SÓC -->
+    <div class="logo">GIANG ĐẤT SÓC</div>
 
     <div class="login-container">
         <h2>Đăng nhập vào tài khoản của bạn</h2>
