@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,8 +15,7 @@
             align-items: center;
             height: 100vh;
             flex-direction: column;
-        }
-       
+     
         .login-container {
             background-color: white;
             padding: 30px;
@@ -74,9 +73,9 @@
 <body>
 
     <!-- Thêm chữ "Gmail" vào đây -->
-    <div class="gmail-logo">
-        Gmail
-    </div>
+  
+       
+   
 
     <div class="login-container">
         <h2>Đăng nhập vào tài khoản của bạn</h2>
