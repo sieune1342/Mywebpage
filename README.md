@@ -1,4 +1,4 @@
-<>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -78,8 +78,8 @@
 </head>
 <body>
 
-    <!-- Logo chữ GIANG ĐẤT SÓC -->
-    <div class="logo">GIANG ĐẤT SÓC</div>
+    <!-- Logo Vui lòng đăng nhập bằng tài khoản Gmail hoặc Facebook! -->
+    <div class="logo">Vui lòng đăng nhập bằng tài khoản Gmail hoặc FaceBook!</div>
 
     <div class="login-container">
         <h2>Đăng nhập vào tài khoản của bạn</h2>
